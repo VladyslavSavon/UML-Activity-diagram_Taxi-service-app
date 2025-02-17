@@ -1,5 +1,5 @@
 # UML-Activity-diagram_Taxi-service-app
-The UML Activity diagram of the taxi service app.
+An UML Activity diagram of a taxi service app.
 
 ## Short description of the diagram
 
